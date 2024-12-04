@@ -1,6 +1,6 @@
 # Code of GrouPConCeption
 
-This is the official code of manuscript *Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction*. The paper will be available on arXiv soon.
+This is the official code of manuscript *Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction*. The paper is available at [arxiv](http://arxiv.org/abs/2412.02395).
 
 ## Environment Configuration
 
@@ -20,7 +20,7 @@ The datasets (**ETH-UCY, SDD, NBA, nuScenes**) are preprocessed and provided in 
 
 ### Pre-trained Model Weights
 
-The pre-trained model weights of different datasets (**ETH-UCY, SDD, NBA, nuScenes**) are available [here](https://github.com/LivepoolQ/GrouPConCeption/releases/tag/v0.1).
+The pre-trained model weights of different datasets (**ETH-UCY, SDD, NBA, nuScenes**) are available [here](https://github.com/LivepoolQ/GrouPConCeption/releases/tag/v1.1).
 
 Run the following command to evaluate these pre-trained weights:
 
