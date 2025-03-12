@@ -13,4 +13,7 @@ group :jekyll_plugins do
     
     # ... Add this line:
     gem "jekyll-gfm-admonitions"
+    gem 'jekyll-gfm-admonitions'
+    gem 'jekyll-optional-front-matter'
+    gem 'github-pages'
 end
